@@ -1,3 +1,5 @@
+# 分鏡板
+![GITHUB](https://github.com/hyu325/sys_group_12/blob/main/imgs/screen.jpg "screen")
 # 1. 登入畫面
 ### 內容:
 ### 頁面標題：Login
