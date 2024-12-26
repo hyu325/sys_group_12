@@ -1,6 +1,6 @@
 # PERT
 ***
-![GITHUB](https://github.com/hyu325/sys_group_12/blob/main/imgs/pert_group.png "pert")
+![GITHUB](https://github.com/hyu325/sys_group_12/blob/main/imgs/pert_group.jpg "pert")
 # 甘特圖
 ***
 ![GITHUB](https://github.com/hyu325/sys_group_12/blob/main/imgs/gantt_group.png "gantt")
