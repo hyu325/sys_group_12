@@ -1,3 +1,9 @@
+# FDD圖
+***
+![GITHUB](https://github.com/hyu325/sys_group_12/blob/main/imgs/fdd.jpg "FDD")
+
+
+
 # 功能性需求 
 ### 1.使用者管理：
 #### -使用者可以註冊新帳號。
