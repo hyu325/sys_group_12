@@ -1,5 +1,12 @@
 # 分鏡板
 ![screen](https://github.com/hyu325/sys_group_12/blob/main/imgs/screen.jpg "screen")
+***
+![screen2](https://github.com/hyu325/sys_group_12/blob/main/imgs/screen2.jpg "screen2")
+***
+![screen3](https://github.com/hyu325/sys_group_12/blob/main/imgs/screen3.jpg "screen3")
+***
+![screen4](https://github.com/hyu325/sys_group_12/blob/main/imgs/screen4.jpg "screen4")
+
 # 1. 登入畫面
 ### 內容:
 ### 頁面標題：Login
