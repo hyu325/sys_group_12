@@ -1,6 +1,6 @@
 # FDD圖
 ***
-![GITHUB](https://github.com/hyu325/sys_group_12/blob/main/imgs/fdd.jpg "FDD")
+![GITHUB](https://github.com/hyu325/sys_group_12/blob/main/imgs/fdd.png "FDD")
 
 
 
