@@ -1,11 +1,11 @@
 # 分鏡板
-![screen](https://github.com/hyu325/sys_group_12/blob/main/imgs/screen.jpg "screen")
+![screen](https://github.com/hyu325/sys_group_12/blob/main/imgs/screen.png "screen")
 ***
-![screen2](https://github.com/hyu325/sys_group_12/blob/main/imgs/screen2.jpg "screen2")
+![screen2](https://github.com/hyu325/sys_group_12/blob/main/imgs/screen2.png "screen2")
 ***
-![screen3](https://github.com/hyu325/sys_group_12/blob/main/imgs/screen3.jpg "screen3")
+![screen3](https://github.com/hyu325/sys_group_12/blob/main/imgs/screen3.png "screen3")
 ***
-![screen4](https://github.com/hyu325/sys_group_12/blob/main/imgs/screen4.jpg "screen4")
+![screen4](https://github.com/hyu325/sys_group_12/blob/main/imgs/screen4.png "screen4")
 
 # 1. 登入畫面
 ### 內容:
