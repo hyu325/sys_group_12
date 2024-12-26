@@ -2,7 +2,9 @@
 ***
 ![GITHUB](https://github.com/hyu325/sys_group_12/blob/main/imgs/fdd.png "FDD")
 
-
+# 使用案例圖
+***
+![GITHUB](https://github.com/hyu325/sys_group_12/blob/main/imgs/usage.png "USAGE")
 
 # 功能性需求 
 ### 1.使用者管理：
